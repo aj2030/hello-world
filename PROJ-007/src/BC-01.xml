@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datapower-configuration version="3">
-	<interface-data>
-		<interface name="eth0" type="Ethernet" vers="ipv4"
-			ip-addr="172.17.0.2" />
-	</interface-data>
 	<configuration domain="DEV-001">
 		<CryptoKey name="m.datapower.com"
 			xmlns:env="http://www.w3.org/2003/05/soap-envelope"
