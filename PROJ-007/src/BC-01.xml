@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datapower-configuration version="3">
-	<export-details>
-		<description>Exported Configuration</description>
-		<user>admin</user>
-		<domain>DEV-001</domain>
-		<comment />
-		<product-id>software</product-id>
-		<product>IDG</product>
-		<display-product>IDG</display-product>
-		<model>IBM DataPower Gateway</model>
-		<display-model>IBM DataPower Gateway</display-model>
-		<device-name>3316abea1df4</device-name>
-		<serial-number>0000001</serial-number>
-		<firmware-version>IDG.2018.4.1.1</firmware-version>
-		<display-firmware-version>IDG.2018.4.1.1</display-firmware-version>
-		<firmware-build>305192</firmware-build>
-		<delivery-type>LTS</delivery-type>
-		<firmware-timestamp>2018/12/11 16:12:47</firmware-timestamp>
-		<current-date>2019-04-24</current-date>
-		<current-time>06:03:08 EDT</current-time>
-		<reset-date>2019-04-24</reset-date>
-		<reset-time>05:57:55 EDT</reset-time>
-		<login-message />
-		<custom-ui-file />
-	</export-details>
 	<interface-data>
 		<interface name="eth0" type="Ethernet" vers="ipv4"
 			ip-addr="172.17.0.2" />
