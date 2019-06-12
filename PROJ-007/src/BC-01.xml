@@ -8,6 +8,7 @@
 			<Filename>cert:///m.datapower.com-privkey.pem</Filename>
 			<PasswordAlias>off</PasswordAlias>
 		</CryptoKey>
+		<!-- this is a comment -->
 		<CryptoCertificate name="m.datapower.com"
 			xmlns:env="http://www.w3.org/2003/05/soap-envelope"
 			xmlns:dp="http://www.datapower.com/schemas/management">
